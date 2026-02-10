@@ -1,2 +1,2 @@
 # kmdproject
-taica device
+some creative work in kmd-embodied media
